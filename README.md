@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadammash&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadammash" /> </p>
 
-- 🔭 I’m currently working on **Survey-frontEnd**
+- 🔭 I’m currently working on a team project: **twitter-clone**
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, PHP, SQL**
 
-- 💬 Ask me about **Javascript, python, Mongo, SQL, NodeJS**
+- 💬 Ask me about **Javascript, python, Mongo, SQL, NodeJS, PHP**
 
 - 📫 How to reach me **mohammadammash31@gmail.com**
 
