@@ -1,6 +1,5 @@
 ![MasterHead](banner.png)
 ------
-<h1 align="center">Hi 👋, I'm Mohammad Ammash</h1>
 <h3 align="center">An enthusiastic Lebanese Full Stack Web Developer, currently working on improving my skills and on more projects to boost my career start :rocket:</h3>
 <img src='https://cutewallpaper.org/24/computer-animated-gifs/gif-b5a01-computer-0e194-animated-d5a41-gif-9bff2-on-987a0-gifer.gif' alt='coding' width='430' align='right'/>
 
