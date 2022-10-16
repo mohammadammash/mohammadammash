@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadammash&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadammash" /> </p>
 
-- 🔭 I’m currently working on a team project: **e-commerce_fullstack**
+- 🔭 I’m currently working on a project: **linkedin_clone**
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, PHP, SQL**
 
