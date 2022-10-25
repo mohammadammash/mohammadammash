@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadammash&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadammash" /> </p>
 
-- 🔭 I’m currently working on a project: **linkedin_clone**
+- 🔭 I’m currently working on a project: **asktheexpert**
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, PHP, SQL**
+- 🌱 I’m currently learning **React Native, TypeScript**
 
 - 💬 Ask me about **Javascript, python, Mongo, SQL, NodeJS, PHP**
 
