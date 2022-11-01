@@ -177,6 +177,6 @@
 <br>
 
 <br/>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mohammadammash&show_icons=true&locale=en" alt="mohammadammash" />&emsp;
+<p align='center'><img src="https://github-readme-stats.vercel.app/api?username=mohammadammash&show_icons=true&locale=en" alt="mohammadammash" />&emsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadammash&" alt="mohammadammash" /></p>
 
