@@ -1,27 +1,24 @@
-------
-<h3 align="center">A Lebanese Junior Full Stack Web Developer, currently working on improving my skills and more projects to boost my career start :rocket:</h3>
-<img src='https://cutewallpaper.org/24/computer-animated-gifs/gif-b5a01-computer-0e194-animated-d5a41-gif-9bff2-on-987a0-gifer.gif' alt='coding' width='430' align='right'/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadammash&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadammash" /> </p>
+![Banner](./banner.png)
+<h2 align='center'>To know is to know that you know nothing :mag_right:	</h2>
 
 - 🔭 I’m currently practicing and working on my technical skills
 
 - 🌱 I’m currently solving Coding Challenges
 
-- 💬 Ask me about anything, if I don't know then I will get back to you 
+- 💬 Ask me about anything, if I don't know then I will get back to you with my research results
 
 - ⚡ Fun fact **I am a big fan of hot drinks, short walks, and meeting people**
-
+--------
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mhmdammash_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhmdammash_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mohammadammash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohammadammash" height="30" width="40" /></a>
-  <a href="www.linkedin.com/in/mohammad-ammash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="mohammadammash" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/mohammadammash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="mohammadammash" height="30" width="40" /></a>
   <a href="mailto:mohammadammash31@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="mohammadammash" height="30" width="80" /></a>
 </p>
 
+--------
 <h3 align="left">Languages and Tools:</h3>
-<h2>Skills:</h2>
 <table>
   <tr>
     <td align="center" height="130" width="130">
@@ -174,7 +171,12 @@
 </table>
 <br>
 
-<br/>
-<p align='center'><img src="https://github-readme-stats.vercel.app/api?username=mohammadammash&show_icons=true&locale=en" alt="mohammadammash" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadammash&" alt="mohammadammash" /></p>
+--------
+<h2>Github Statistics:</h2>
+<a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAmmash&hide=java,html,CSS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a>
+<img src="https://github-readme-stats.vercel.app/api?username=mohammadammash&show_icons=true&locale=en&title_color=ffffff&text_color=1FA6D1&icon_color=1FA6D1&bg_color=1d1f21" alt="mohammadammash" />
+</a>
 
