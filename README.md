@@ -4,13 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadammash&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadammash" /> </p>
 
-- 🔭 I’m currently working on a mobile app project: **ask_the_expert**
+- 🔭 I’m currently practicing and working on my technical skills
 
-- 🌱 I’m currently learning **React Native, TypeScript, Firebase**
+- 🌱 I’m currently solving Coding Challenges
 
-- 💬 Ask me about **Javascript, python, MongoDB, MySQL, NodeJS, PHP**
-
-- 📫 How to reach me **mohammadammash31@gmail.com**
+- 💬 Ask me about anything, if I don't know then I will get back to you 
 
 - ⚡ Fun fact **I am a big fan of hot drinks, short walks, and meeting people**
 
