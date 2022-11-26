@@ -177,6 +177,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAmmash&hide=java,html,CSS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a>
-<img src="https://github-readme-stats.vercel.app/api?username=mohammadammash&show_icons=true&locale=en&title_color=ffffff&text_color=1FA6D1&icon_color=1FA6D1&bg_color=1d1f21" alt="mohammadammash" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohammadammash&show_icons=true&locale=en&title_color=ffffff&text_color=fff&icon_color=fff&bg_color=1d1f21" alt="mohammadammash" />
 </a>
 
