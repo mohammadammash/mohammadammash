@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently practicing and working to refresh my knowledge in Data Structures and Algorithms
 
-- 🌱 I’m currently solving HackerRank Algorithms Challenges
+- 🌱 I’m currently solving LeetCode Problems
 
 - 💬 Ask me about anything, if I don't know then I will get back to you with my research results
 
@@ -12,9 +12,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/mhmdammash_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mhmdammash_" height="30" width="40" /></a>
+<a href="http://www.linkedin.com/in/mohammadammash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="mohammadammash" height="30" width="40" /></a>
+<a href="mailto:mohammadammash31@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="mohammadammash" height="30" width="80" /></a>
 <a href="https://www.hackerrank.com/mohammadammash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohammadammash" height="30" width="40" /></a>
-  <a href="http://www.linkedin.com/in/mohammadammash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="mohammadammash" height="30" width="40" /></a>
-  <a href="mailto:mohammadammash31@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="mohammadammash" height="30" width="80" /></a>
+<a href="https://leetcode.com/MohammadAmmash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asmaahamid99" height="30" width="40" /></a>
 </p>
 
 --------
