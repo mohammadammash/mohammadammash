@@ -15,7 +15,7 @@
 <a href="http://www.linkedin.com/in/mohammadammash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="mohammadammash" height="30" width="40" /></a>
 <a href="mailto:mohammadammash31@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="mohammadammash" height="30" width="80" /></a>
 <a href="https://www.hackerrank.com/mohammadammash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohammadammash" height="30" width="40" /></a>
-<a href="https://leetcode.com/MohammadAmmash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asmaahamid99" height="30" width="40" /></a>
+<a href="https://leetcode.com/mohammad_ammash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asmaahamid99" height="30" width="40" /></a>
 </p>
 
 --------
