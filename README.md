@@ -1,7 +1,7 @@
 ![Banner](./banner.png)
 <h2 align='center'>To know is to know that you know nothing :mag_right:	</h2>
 
-- 🔭 I’m currently practicing and working to refresh my knowledge in **Data Structures and Algorithms**
+- 🔭 I’m currently working on **blog_react_query Repository** to enhance my React Query Skills
 
 - 🌱 I’m currently solving **LeetCode Problems**
 
