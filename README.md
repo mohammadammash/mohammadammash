@@ -1,9 +1,9 @@
 ![Banner](./banner.png)
 <h2 align='center'>To know is to know that you know nothing :mag_right:	</h2>
 
-- 🔭 I’m currently practicing and working to refresh my knowledge in Data Structures and Algorithms
+- 🔭 I’m currently practicing and working to refresh my knowledge in **Data Structures and Algorithms**
 
-- 🌱 I’m currently solving LeetCode Problems
+- 🌱 I’m currently solving **LeetCode Problems**
 
 - 💬 Ask me about anything, if I don't know then I will get back to you with my research results
 
