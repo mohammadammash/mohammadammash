@@ -1,7 +1,7 @@
 ![Banner](./banner.png)
 <h2 align='center'>To know is to know that you know nothing :mag_right:	</h2>
 
-- 🔭 I’m currently working on **<a href="../../../lazyspa_react_query" target="blank">Lazy Spa</a>** to enhance my React Query Skills
+- 🔭 I’m currently learning <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" />Flutter</a>
 
 - 🌱 I’m currently solving **<a href="https://leetcode.com/mohammad_ammash/" target="blank">LeetCode Problems</a>**
 
