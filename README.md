@@ -1,7 +1,7 @@
 ![Banner](./banner.png)
 <h2 align='center'>To know is to know that you know nothing :mag_right:	</h2>
 
-- 🔭 I’m currently learning <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" />Flutter</a>  by implementing **<a href="../../../flutter_simple_ui" target="blank">flutter_simple_ui</a>** project
+- 🔭 I’m currently learning <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" />Flutter</a>  by implementing **<a href="../../../flutter_simple_ui" target="blank">amazon_clone</a>** project
 
 - 🌱 I’m currently solving **<a href="https://leetcode.com/mohammad_ammash/" target="blank">LeetCode Problems</a>**
 
