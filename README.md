@@ -57,25 +57,24 @@
         alt="React Native"
       />
       <br /><strong>React Native</strong>
+          <td align="center" height="130" width="130">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
+        width="45"
+        height="45"
+        alt="Dart"
+      />
+      <br /><strong>Dart</strong>
     </td>
     <td align="center" height="130" width="130">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
         width="45"
         height="45"
-        alt="HTML5"
+        alt="Flutter"
       />
-      <br /><strong>HTML5</strong>
-    </td>
-      <td align="center" height="130" width="130">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="45"
-        height="45"
-        alt="CSS3"
-      />
-      <br /><strong>CSS3</strong>
-    </td>
+      <br /><strong>Flutter</strong>
+    </td>  
     <td align="center" height="130" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
         width="45"
@@ -94,8 +93,25 @@
       <br /><strong>Bootstrap</strong>
     </td>
   </tr>
-  
   <tr>
+    <td align="center" height="130" width="130">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
+        width="45"
+        height="45"
+        alt="HTML5"
+      />
+      <br /><strong>HTML5</strong>
+    </td>
+      <td align="center" height="130" width="130">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+        width="45"
+        height="45"
+        alt="CSS3"
+      />
+      <br /><strong>CSS3</strong>
+    </td>
      <td align="center" height="130" width="130">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
@@ -143,13 +159,15 @@
     </td>
     <td align="center" height="130" width="130">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
         width="45"
         height="45"
-        alt="VSCode"
+        alt="Python"
       />
-      <br /><strong>VSCode</strong>
-      </td>
+      <br /><strong>Python</strong>
+    </td>
+  </tr>
+  <tr>
     <td align="center" height="130" width="130">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
@@ -161,12 +179,12 @@
     </td>
     <td align="center" height="130" width="130">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-        width="45"
-        height="45"
-        alt="Python"
+        src="https://cdn.svgporn.com/logos/postman.svg"
+        width="100"
+        height="50"
+        alt="Postman"
       />
-      <br /><strong>Python</strong>
+      <br /><strong>Postman</strong>
     </td>
   </tr>
 </table>
