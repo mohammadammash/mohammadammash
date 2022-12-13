@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently learning <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" />Flutter</a>  by implementing **<a href="../../../amazon_clone" target="blank">amazon_clone</a>** project
 
+- :monocle_face: Upcoming stacks to learn: NextJS, GraphQL
+
 - 🌱 I’m currently solving **<a href="https://leetcode.com/mohammad_ammash/" target="blank">LeetCode Problems</a>**
 
 - 💬 Ask me about anything, if I don't know then I will get back to you with my research results
