@@ -5,8 +5,6 @@
 
 - :monocle_face: Upcoming stacks to learn: <a href="https://nextjs.org/">NextJS</a>, <a href="https://graphql.org/">GraphQL</a>
 
-- 🌱 I’m currently solving **<a href="https://leetcode.com/mohammad_ammash/" target="blank">LeetCode Problems</a>**
-
 - 💬 Ask me about anything, if I don't know then I will get back to you with my research results
 
 - ⚡ Fun fact **I am a big fan of hot drinks, short walks, and meeting people**
