@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently taking a night break.
 
-- :monocle_face: Tomorrow upcoming stacks to learn: FastAPI, PostgresSQL, and Prisma.
+- :monocle_face: Tomorrow upcoming stacks to learn: FastAPI, PostgresSQL.
 
 - 💬 Ask me about anything, if I don't know then I will get back to you with my research results
 
