@@ -1,9 +1,9 @@
 ![Banner](./banner.png)
 <h2 align='center'>To know is to know that you know nothing :mag_right:	</h2>
 
-- 🔭 I’m currently learning <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" />Flutter</a>  by implementing **<a href="../../../amazon_clone" target="blank">amazon_clone</a>** project
+- 🔭 I’m currently taking a night break.
 
-- :monocle_face: Upcoming stacks to learn: NestJS, PostgresSQL, and Prisma.
+- :monocle_face: Tomorrow upcoming stacks to learn: Django, PostgresSQL, and Prisma.
 
 - 💬 Ask me about anything, if I don't know then I will get back to you with my research results
 
