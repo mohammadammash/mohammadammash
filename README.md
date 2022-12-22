@@ -1,9 +1,9 @@
 ![Banner](./banner.png)
 <h2 align='center'>To know is to know that you know nothing :mag_right:	</h2>
 
-- 🔭 I’m currently learning PostgreSQL.
+- 🔭 I’m currently working on simple backend APIs to get used to PostgresSQL and Prisma with ExpressJS
 
-- :monocle_face: Upcoming simple backend Project using stacks: NodeJS, and PostrgeSQL.
+- :monocle_face: Upcoming stack to learn: FastAPI
 
 - 💬 Ask me about anything, if I don't know then I will get back to you with my research results
 
