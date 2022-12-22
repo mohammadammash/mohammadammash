@@ -1,9 +1,9 @@
 ![Banner](./banner.png)
 <h2 align='center'>To know is to know that you know nothing :mag_right:	</h2>
 
-- 🔭 I’m currently taking a night break.
+- 🔭 I’m currently learning PostgreSQL.
 
-- :monocle_face: Tomorrow upcoming stacks to learn: FastAPI, PostgreSQL.
+- :monocle_face: Upcoming simple backend Project using stacks: NodeJS, and PostrgeSQL.
 
 - 💬 Ask me about anything, if I don't know then I will get back to you with my research results
 
