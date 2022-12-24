@@ -1,7 +1,7 @@
 ![Banner](./banner.png)
 <h2 align='center'>To know is to know that you know nothing :mag_right:	</h2>
 
-- 🔭 I’m currently refreshing my Algorithms and Data Structure Knowledge
+- 🔭 I’m currently learning C++ and using it to enhance my Algorithms and Data Structure Knowledge
 
 - :monocle_face: Upcoming stack to learn: FastAPI
 
