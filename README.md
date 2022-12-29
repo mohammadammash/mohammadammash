@@ -1,7 +1,7 @@
 ![Banner](./banner.png)
 <h2 align='center'>To know is to know that you know nothing :mag_right:	</h2>
 
-- 🔭 I’m currently learning C++ and using it to enhance my Algorithms and Data Structure Knowledge
+- 🔭 I’m currently taking a break till Saturday 31 Dec morning.
 
 - :monocle_face: Upcoming stack to learn: FastAPI
 
@@ -21,6 +21,24 @@
 <h3 align="left">Languages and Tools:</h3>
 <table>
   <tr>
+    <td align="center" height="130" width="130">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        width="45"
+        height="45"
+        alt="Python"
+      />
+      <br /><strong>Python</strong>
+    </td>
+    <td align="center" height="130" width="130">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+        width="45"
+        height="45"
+        alt="CPP"
+      />
+      <br /><strong>C++</strong>
+    </td>
     <td align="center" height="130" width="130">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
@@ -82,7 +100,10 @@
       />
       <br /><strong>Tailwindcss</strong>
     </td>
-        <td align="center" height="130" width="130">
+        
+  </tr>
+  <tr>
+    <td align="center" height="130" width="130">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
         width="45"
@@ -91,8 +112,6 @@
       />
       <br /><strong>Bootstrap</strong>
     </td>
-  </tr>
-  <tr>
     <td align="center" height="130" width="130">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
@@ -158,17 +177,6 @@
     </td>
     <td align="center" height="130" width="130">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-        width="45"
-        height="45"
-        alt="Python"
-      />
-      <br /><strong>Python</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" height="130" width="130">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
         width="45"
         height="45"
@@ -176,6 +184,8 @@
       />
       <br /><strong>Figma</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" height="130" width="130">
       <img
         src="https://cdn.svgporn.com/logos/postman.svg"
