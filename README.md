@@ -1,9 +1,9 @@
 ![Banner](./banner.png)
 <h2 align='center'>To know is to know that you know nothing :mag_right:	</h2>
 
-- 🔭 I’m currently taking a break till Saturday 31 Dec morning.
+- 🔭 I’m currently learning FastAPI <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width=20/>
 
-- :monocle_face: Upcoming stack to learn: FastAPI
+- :monocle_face: Upcoming learning: GraphQL, and integrating GraphQL with FastAPI
 
 - 💬 Ask me about anything, if I don't know then I will get back to you with my research results
 
