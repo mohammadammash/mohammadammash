@@ -1,7 +1,7 @@
 ![Banner](./banner.png)
 <h2 align='center'>To know is to know that you know nothing :mag_right:	</h2>
 
-- 🔭 I’m currently learning FastAPI <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width=20/>
+- 🔭 I’m currently learning FastAPI  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width=20 align="center"/>  and Docker  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=30 align="center"/>
 
 - :monocle_face: Upcoming learning: GraphQL, and integrating GraphQL with FastAPI
 
