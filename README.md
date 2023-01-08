@@ -1,9 +1,9 @@
 ![Banner](./banner.png)
 <h2 align='center'>To know is to know that you know nothing :mag_right:	</h2>
 
-- 🔭 I’m currently learning GraphQL.
+- 🔭 I’m currently learning GraphQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width=30 align="center"/>
 
-- :monocle_face: Upcoming Project implemented using following stacks: Docker, Flutter, GraphQL, FastAPI, and MongoDB.  
+- :monocle_face: Upcoming Project to be implemented using following stacks: Docker, Flutter, GraphQL, FastAPI, and MongoDB.  
 
 - 💬 Ask me about anything, if I don't know then I will get back to you with my research results
 
