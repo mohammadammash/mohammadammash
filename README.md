@@ -1,9 +1,9 @@
 ![Banner](./banner.png)
 <h2 align='center'>To know is to know that you know nothing :mag_right:	</h2>
 
-- 🔭 I’m currently learning FastAPI  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width=20 align="center"/>  and Docker  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width=30 align="center"/>
+- 🔭 I’m currently learning GraphQL.
 
-- :monocle_face: Upcoming learning: GraphQL, and integrating GraphQL with FastAPI
+- :monocle_face: Upcoming Project implemented using following stacks: Docker, Flutter, GraphQL, FastAPI, and MongoDB.  
 
 - 💬 Ask me about anything, if I don't know then I will get back to you with my research results
 
