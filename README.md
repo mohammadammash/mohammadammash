@@ -177,12 +177,12 @@
     </td>
     <td align="center" height="130" width="130">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
         width="45"
         height="45"
-        alt="Figma"
+        alt="Docker"
       />
-      <br /><strong>Figma</strong>
+      <br /><strong>Docker</strong>
     </td>
   </tr>
   <tr>
@@ -194,6 +194,15 @@
         alt="Postman"
       />
       <br /><strong>Postman</strong>
+    </td>
+    <td align="center" height="130" width="130">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+        width="45"
+        height="45"
+        alt="Figma"
+      />
+      <br /><strong>Figma</strong>
     </td>
   </tr>
 </table>
