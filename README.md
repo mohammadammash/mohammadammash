@@ -3,9 +3,9 @@
 
 - :notes: 2023 Learned Stacks: FastAPI, Docker, GraphQL.
 
-- 🔭 I’m currently reading and exploring more about AWS.
+- 🔭 I’m currently reading and exploring more about Redis DBMS.
 
-- :monocle_face: Upcoming Project to be implemented using following stacks: Docker, ReactJS, FastAPI, and MongoDB.  
+- :monocle_face: New Project Start Tomorrow at 15/Feb/2023, using following stacks: Docker, Flutter, FastAPI, and Redis.  
 
 - 💬 Ask me about anything, if I don't know then I will get back to you with my research results
 
