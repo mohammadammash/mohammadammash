@@ -3,7 +3,7 @@
 
 - :notes: 2023 Learned Stacks: FastAPI, Docker, GraphQL.
 
-- 🔭 I’m currently preparing new project start using following Stacks: Docker, Flutter, FastAPI, and MongoDB.
+- 🔭 I’m currently working on: <a href="../../../virtual_romantic_partner">Virtual_Romantic_Partner Project</a>.
 
 - 💬 Ask me about anything, if I don't know then I will get back to you with my research results
 
