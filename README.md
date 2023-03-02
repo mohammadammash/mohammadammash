@@ -3,7 +3,7 @@
 
 - :notes: 2023 Learned Stacks: FastAPI, Docker, GraphQL.
 
-- 🔭 I’m currently working on: <a href="../../../virtual_romantic_partner">Virtual-Romantic-Partner Project</a>. and completing <a href="https://www.coursera.org/learn/aws-cloud-technical-essentials">AWS-Cloud-Technical-Essentials</a> Course.
+- 🔭 I’m currently working on: <a href="../../../virtual_romantic_partner">Virtual-Romantic-Partner Project</a> ("backend" Branch)
 
 - 💬 Ask me about anything, if I don't know then I will get back to you with my research results
 
